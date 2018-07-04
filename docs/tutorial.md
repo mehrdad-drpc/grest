@@ -1,6 +1,6 @@
 # Tutorial
 
-This quick tutorial will get you up and running with your first gREST project. Your project should include at most three files to have a working API for your first model. You project layout should be like this:
+This quick tutorial will get you up and running with your first gREST project. Your project should include at most three files to have a working API for your first model. Your project layout should be like this:
 
 Note: By installing `pygrest` package, all the necessary dependencies would also be installed.
 
